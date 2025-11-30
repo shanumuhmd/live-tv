@@ -14,8 +14,36 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extens
 #EXTINF:-1 tvg-id="ESPN - 6" group-title="Sports" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg",BR - ESPN - 6
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 
-#EXTINF:-1 tvg-id="asianet-news-india" group-title="News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",Asianet News
+#EXTINF:-1 tvg-id="willow-sports" group-title="Sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",Willow Sports
+https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1764521543~exp%3D1764543143~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_284_-1~hmac%3D8e197da07b9da7f4a79bdfbc67224f03d566f11acd4aabd4042edbdd00ee642c
+
+
+#EXTINF:-1 tvg-id="asianet-news-india" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",Asianet News
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8?hdnts=st%3D1764521485~exp%3D1764543085~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Asianet_News%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F26f4b1f3-41c6-4a57-b7f2-759f8b319ac8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_282_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_282_-1~hmac%3D728dc88b39aaf408ae98698d6134812f2203df4379f07d1c0272a1429e9623a7
 
-#EXTINF:-1 tvg-id="jaihind-tv" group-title="News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",Jaihind TV
+#EXTINF:-1 tvg-id="jaihind-tv" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",Jaihind TV
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st%3D1764521506~exp%3D1764543106~acl%3D%21%2A%2F260723%2Fsmil%3Ajaihind1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_117_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_117_-1~hmac%3D38c2213dae47ae32eaddfc593ff748828ce736dac74cfdf8cb64c17ede62aec3
+
+#EXTINF:-1 tvg-id="kerala-vision" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png",Kerala Vision
+https://yuppnimrestreammum.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8?hdnts=st%3D1764521506~exp%3D1764543106~acl%3D%21%2A%2F181224%2Fsmil%3Akeralavision.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_168_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_168_-1~hmac%3D680ca7ef651688e47de8fce447c26edf4e3ab111e7a321776e6c2f273886f964
+
+#EXTINF:-1 tvg-id="janam-tv" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/janam-tv.png",Janam TV
+https://yupprestreamliveus.akamaized.net/140622/janamtvdev/playlist.m3u8?hdnts=st%3D1764521487~exp%3D1764543087~acl%3D%21%2A%2F140622%2Fjanamtvdev%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_182_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_182_-1~hmac%3Dcc147020408ad779b795882ce1a3b4fca2814cee67fd57a85dded5c9f8e8beff
+
+#EXTINF:-1 tvg-id="mathrubhumi-news" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mathrubhumi-news.png",Mathrubhumi News
+https://yupprestreamliveus.akamaized.net/110322/mathrubhuminews/playlist.m3u8?hdnts=st%3D1764521486~exp%3D1764543086~acl%3D%21%2A%2F110322%2Fmathrubhuminews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_174_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_174_-1~hmac%3D81b28597eda07f15cd9f1633292e83e31e6341a472cb4c692203b399224e3ab3
+
+#EXTINF:-1 tvg-id="manorama-news" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pnahka.png",Manorama News
+https://yuppnimresmum.akamaized.net/240122/manoramanews/playlist.m3u8?hdnts=st%3D1764521486~exp%3D1764543086~acl%3D%21%2A%2F240122%2Fmanoramanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_170_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_170_-1~hmac%3Dfb2d5202171a672249e2a946c40a81ca8dff2e90715aca12cfb00ef765722524
+
+#EXTINF:-1 tvg-id="reporter-tv" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/reporter-tv.png",Reporter TV
+https://yuppnimresmum.akamaized.net/050522/reporter/playlist.m3u8?hdnts=st%3D1764521486~exp%3D1764543086~acl%3D%21%2A%2F050522%2Freporter%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_140_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_140_-1~hmac%3Da4905d87016f08332337252174e6e173e0861e4ed3351029c3fe8ea228dc9c3e
+
+#EXTINF:-1 tvg-id="24" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/24.png",Twenty Four News
+https://yupprestreamliveus.akamaized.net/110322/channel24dev/playlist.m3u8?hdnts=st%3D1764521485~exp%3D1764543085~acl%3D%21%2A%2F110322%2Fchannel24dev%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_218_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_218_-1~hmac%3D25d4d62b9920a15fa8d18eab7f698032c662af3f27e75a70138173983a5fa765
+
+#EXTINF:-1 tvg-id="kappa-tv" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png",Kappa TV
+https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8?hdnts=st%3D1764521512~exp%3D1764543112~acl%3D%21%2A%2F080823%2Fkappatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_166_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_166_-1~hmac%3D96e914daf75f7a7143ff77d79de8dc6cf370cf9f49c92f0bfa64fa296fe1f5a6
+
+
+
