@@ -4,6 +4,8 @@ http://hookpro.site:80/live/05316097414/99663356557/445408.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
 https://cdn1.4job.online/live/b11x/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
+https://a.kora1goal.com/albarelay.php?channel=bein1
 
 #EXTINF:-1 tvg-id="beINSports1.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
