@@ -11,6 +11,11 @@ https://a.kora1goal.com/albarelay.php?channel=bein1
 #EXTINF:-1 tvg-id="beINSports1.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
 
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+#EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png",EN - CBS Sports
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsenEspanol.qa@SD" group-title="Sports" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/poster_20241002_231157.png",ES - beIN Sports Extra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
