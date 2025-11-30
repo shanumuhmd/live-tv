@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
 http://hookpro.site:80/live/05316097414/99663356557/445408.m3u8
 
-#EXTINF:-1 tvg-id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
+#EXTINF:-1 tvg-id="beINSports1.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=m3u8
 
-#EXTINF:-1 tvg-id="9B969275-E59C-4DD1-8FCA-8B01EAE04909" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png",FR - beIN Sports - 2
+#EXTINF:-1 tvg-id="beINSports2.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png",FR - beIN Sports - 2
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png",FR - beIN Sports - 3
