@@ -14,5 +14,8 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extens
 #EXTINF:-1 tvg-id="ESPN - 6" group-title="Sports" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg",BR - ESPN - 6
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 
-#EXTINF:-1 tvg-id="asianetnews.com" group-title="News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",Asianet News
+#EXTINF:-1 tvg-id="asianet-news-india" group-title="News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",Asianet News
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8?hdnts=st%3D1764521485~exp%3D1764543085~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Asianet_News%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F26f4b1f3-41c6-4a57-b7f2-759f8b319ac8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_282_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_282_-1~hmac%3D728dc88b39aaf408ae98698d6134812f2203df4379f07d1c0272a1429e9623a7
+
+#EXTINF:-1 tvg-id="jaihind-tv" group-title="News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",Jaihind TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st%3D1764521506~exp%3D1764543106~acl%3D%21%2A%2F260723%2Fsmil%3Ajaihind1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_117_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_117_-1~hmac%3D38c2213dae47ae32eaddfc593ff748828ce736dac74cfdf8cb64c17ede62aec3
