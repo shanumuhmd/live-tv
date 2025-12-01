@@ -18,7 +18,53 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",USA - beIN Sports
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",USA - CBS Sports
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",USA - TSN - 1
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",USA - TSN - 4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",USA - TSN - 5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Willow Sports
+http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Star Sports - 1
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Star Sports - 2
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Star Sports - 1 Hindi
+https://starsportshindiii.pages.dev/720p.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Sony Sports - 1
+https://stalker.tnm3us.workers.dev/62593.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Sony Sports - 2
+http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",Sony Sports - 5
+http://103.175.242.10:8080/sonyten5/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Sports",ESPN Deportes
+http://104.243.40.13:8989/279426_.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" group-title="Sports" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" group-title="Malayalam" tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png",DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
 
 #EXTINF:-1 tvg-id="asianet-news-india" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",Asianet News
