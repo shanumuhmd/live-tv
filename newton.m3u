@@ -21,6 +21,9 @@ http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",USA - beIN Sports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k52CAQFINv76NBwAJHzAoR9_INUglUMvxn_-p4=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",AU - Fox Sports 501
+https://7pal.short.gy/fox501au
+
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" group-title="Sports",USA - CBS Sports
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
