@@ -5,6 +5,11 @@ http://hookpro.site:80/live/05316097414/99663356557/445408.m3u8
 #EXTINF:-1 tvg-id="beINSports1.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
 .=m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
+https://a.kora1goal.com/albarelay.php?url=http://127.0.0.1:6081/bein1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
+https://acc.kora1goal.com/albarelay.php?url=http://127.0.0.1:6081/bein1/index.m3u8
 
 #EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" group-title="Sports" tvg-logo="https://yt3.googleusercontent.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s900-c-k-c0x00ffffff-no-rj",EN - CBS Sports
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
