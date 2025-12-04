@@ -4,13 +4,72 @@
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
-http://hookpro.site:80/live/05316097414/99663356557/445408.m3u8
+https://ab.footballii.ir/hls2/bein1_src.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
+https://balance.footballii.ir/hls2/bein1.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
+http://5.9.119.146:8883/beinfr1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",ID - beIN Sports - 1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgrBQWmVTiMPs-BOocq95VtV8jVQOpLdBbg&s",FR - beIN Sports - 2
+http://5.9.119.146:8883/beinfr2/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgrBQWmVTiMPs-BOocq95VtV8jVQOpLdBbg&s",AR - beIN Sports - 2
 https://ab.footballii.ir/hls2/bein2_src.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgrBQWmVTiMPs-BOocq95VtV8jVQOpLdBbg&s",AR - beIN Sports - 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgrBQWmVTiMPs-BOocq95VtV8jVQOpLdBbg&s",AR - beIN Sports - 2
 https://balance.footballii.ir/hls2/bein2.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgrBQWmVTiMPs-BOocq95VtV8jVQOpLdBbg&s",ID - beIN Sports - 2
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt85YQnsjaD56p8X3hdIOZI9fLysjAHftzDw&s",FR - beIN Sports - 3
+http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt85YQnsjaD56p8X3hdIOZI9fLysjAHftzDw&s",AR - beIN Sports - 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt85YQnsjaD56p8X3hdIOZI9fLysjAHftzDw&s",FR - beIN Sports - 3
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt85YQnsjaD56p8X3hdIOZI9fLysjAHftzDw&s",ID - beIN Sports - 3
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png",AR - beIN Sports - 4
+http://135.125.109.73:9000/beinsport4_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png",AR - beIN Sports - 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4a2FObnajOKx3WPWgTySvtF8l5n1S7AU4A&s",AR - beIN Sports - 6
+http://135.125.109.73:9000/beinsport6_.m3u8
+
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png",AR - beIN Sports - 7
+http://135.125.109.73:9000/beinsport7_.m3u8
+
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEJFa3aYKpm7yXtHp-JMGcjawOFLHXdr5Og&s.png",AR - beIN Sports - 8
+http://135.125.109.73:9000/beinsport8_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",AR - beIN Sports - 9
+http://135.125.109.73:9000/beinsport9_.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wq2jxEuzaRuEt8PFAQC3IZC8BDQA-xorwA&s",AR - beIN Sports - 10
+http://135.125.109.73:9000/beinsport10_.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://x.playerlatino.live/beinsportsn.png",ES - beIN Sports ñ
 http://104.238.222.251:8989/279422_.m3u8
@@ -18,20 +77,56 @@ http://104.238.222.251:8989/279422_.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",ES - beIN Sports Extra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Canal-Sport.png",FR - Canal + Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",FR - Canal + Sport 360
+http://178.33.239.54:8080/700/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" group-title="Sports",USA - CBS Sports
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" group-title="Sports" tvg-logo="https://yt3.googleusercontent.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s900-c-k-c0x00ffffff-no-rj",EN - CBS Sports
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/DAZN-Logo-2016.png" group-title="Sports",ES - Dazn TV
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="Sports",ES - Dazn Laliga
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="Sports",ES - Dazn Laliga
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ddsports" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UpkboKiqJZvK-5Hqvzdm1umc-rOEmj-aLg&s",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://btv.mx/posters/1724884284139.png",ES - Fox Sports - 2
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/320px-Fox_Sports_1_logo.svg.png",MX - Fox Sports - 1
+http://45.167.255.254:8010/play/a045/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/320px-Fox_Sports_1_logo.svg.png",MX - Fox Sports - 1
+http://148.113.207.98:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png.png",EN - Fox Sports - 2
 http://104.238.205.28:8989/299287_.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png",MX - Fox Sports - 2
+http://45.167.255.254:8010/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",MX - Fox Sports - 3
+http://45.167.255.254:8010/play/a047/index.m3u8
 
 XTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://ustvgo.live/wp-content/uploads/2023/01/ACC-Network.webp",BR - ESPN ACCN
 http://104.243.40.13:8989/279459_.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://assets.goal.com/images/v3/blt658bff9fa5f97d5b/ESPN3_logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",CO - ESPN - 3
+http://205.235.6.29:8000/play/a0w0/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png",CO - ESPN - 5
+http://190.60.56.41:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png",CO - ESPN - 5
+http://205.235.6.29:8000/play/a0vw/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYw-epO6cAAI00EhIH6hGnEXpXlVKiMs2yYA&s",BR - ESPN - 6
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
@@ -42,6 +137,15 @@ http://104.243.40.13:8989/279426_.m3u8
 #EXTINF:-1 tvg-id="ddsports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="Sports",BG - Max Sport - 4
+http://85.11.144.6:6060/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest/scale-to-width-down/250?cb=20231120144248" group-title="Sports",ES - Sky Sports Laliga
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="ddsports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest/scale-to-width-down/250?cb=20231120144248" group-title="Sports",ES - Sky Sports Laliga
+http://181.78.109.48:9998/play/a06r/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports - 1
 http://103.175.242.10:8080/sonyten1/index.m3u8
 
@@ -50,6 +154,9 @@ http://103.175.242.10:8080/sonyten2/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5259.jpg" group-title="Sports",Sony Sports - 5
 http://103.175.242.10:8080/sonyten5/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nqFSA_5QJ8GFQBHIlC3B3WuSPKfa4HDKunW_5uWQV-NA=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports - 1
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
