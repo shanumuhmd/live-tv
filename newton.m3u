@@ -2,15 +2,6 @@
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
 http://hookpro.site:80/live/05316097414/99663356557/445408.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.qa@France" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",FR - beIN Sports - 1
-.=m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
-https://a.kora1goal.com/albarelay.php?url=http://127.0.0.1:6081/bein1/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Sports" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png",AR - beIN Sports - 1
-https://acc.kora1goal.com/albarelay.php?url=http://127.0.0.1:6081/bein1/index.m3u8
-
 #EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" group-title="Sports" tvg-logo="https://yt3.googleusercontent.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s900-c-k-c0x00ffffff-no-rj",EN - CBS Sports
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
@@ -19,15 +10,20 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",ES - beIN Sports Extra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://x.playerlatino.live/beinsportsn.png",ES - beIN Sports ñ
+http://104.238.222.251:8989/279422_.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Sports" tvg-logo="https://btv.mx/posters/1724884284139.png",ES - Fox Sports - 2
+http://104.238.205.28:8989/299287_.m3u8
+
 #EXTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYw-epO6cAAI00EhIH6hGnEXpXlVKiMs2yYA&s",BR - ESPN - 6
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 
+XTINF:-1 tvg-id="ESPN6" group-title="Sports" tvg-logo="https://ustvgo.live/wp-content/uploads/2023/01/ACC-Network.webp",BR - ESPN ACCN
+http://104.243.40.13:8989/279459_.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",USA - beIN Sports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k52CAQFINv76NBwAJHzAoR9_INUglUMvxn_-p4=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",AU - Fox Sports 501
-https://7pal.short.gy/fox501au
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" group-title="Sports",USA - CBS Sports
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -68,12 +64,14 @@ http://104.243.40.13:8989/279426_.m3u8
 #EXTINF:-1 tvg-id="ddsports" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UpkboKiqJZvK-5Hqvzdm1umc-rOEmj-aLg&s",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-id="ddsports" group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/L8WMg-yCi3eliD8IOdszs1lr3iNPDToM1ttp8jAFkXHm199plqPc5P0y8Oi3mPXBtV9vFF3AZA=s900-c-k-c0x00ffffff-no-rj",DD Malayalam
-https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
-
 #EXTINF:-1 tvg-id="ddsports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="ddsports" group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/L8WMg-yCi3eliD8IOdszs1lr3iNPDToM1ttp8jAFkXHm199plqPc5P0y8Oi3mPXBtV9vFF3AZA=s900-c-k-c0x00ffffff-no-rj",DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 
 #EXTINF:-1 tvg-id="asianet-news-india" group-title="Malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",Asianet News
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8?hdnts=st%3D1764521485~exp%3D1764543085~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Asianet_News%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F26f4b1f3-41c6-4a57-b7f2-759f8b319ac8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_282_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.165.251.162_yuppfast_2_channel_282_-1~hmac%3D728dc88b39aaf408ae98698d6134812f2203df4379f07d1c0272a1429e9623a7
