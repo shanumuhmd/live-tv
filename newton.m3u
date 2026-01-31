@@ -67,8 +67,23 @@ https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports",Fox Cricket 501
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 
+#EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
 
+#EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
 
+#EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+
+#EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports",Dazn 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+
+#EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",Dazn 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+
+#EXTINF:-1 tvg-id="foxtel.com.au/tv-guide/channel/FOX-CRICKET/FS1/" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports",Dazn 5
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
 
 
