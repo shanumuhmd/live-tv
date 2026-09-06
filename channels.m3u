@@ -1,1 +1,4 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
+#EXTINF:-1 tvg-id="asianet.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
