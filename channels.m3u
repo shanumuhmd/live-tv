@@ -12,3 +12,5 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/adjRrVx.png",Manorama News
 https://mmtvnews.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/diQftzP.png",Mathrubhumi News
+https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
