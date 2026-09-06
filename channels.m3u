@@ -14,3 +14,6 @@ https://mmtvnews.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab5
 
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/diQftzP.png",Mathrubhumi News
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TwentyFourNews.in" group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png",24 News Malayalam
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
