@@ -6,6 +6,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1
 #EXTINF:-1 tvg-id="AsianetMovies.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/cps67hs.png",Asianet Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/du9iZ0s.png",Asianet Middle East
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+
 #EXTINF:-1 tvg-id="AmritaTV.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/WdSjlPl.png",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
@@ -17,3 +20,6 @@ https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TwentyFourNews.in" group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png",24 News Malayalam
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTV24x7.in" group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj",Big TV News
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
