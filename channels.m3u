@@ -9,6 +9,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/du9iZ0s.png",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 
+#EXTINF:-1 tvg-id="AsianetNews.in" group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png",Asianet News
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/9bd4a057-456d-43de-b887-7b87b021f1cc/3.m3u8
+
 #EXTINF:-1 tvg-id="AmritaTV.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/WdSjlPl.png",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
@@ -50,4 +53,44 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SafariTV.in" group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnandTV.uk" group-title="Malayalam" tvg-logo="https://i.imgur.com/5VOPFzs.png",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+
+#EXTINF:-1 tvg-id="CMalayalamTV.ca" group-title="Malayalam" tvg-logo="https://i.imgur.com/rpg0bQA.png",C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HarvestTV.in" group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png",Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="HarvestTVKeralam.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/1DyPuIt.png",Harvest TV Keralam
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="JanamTV.in" group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540",Janam TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalikaTV.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/XWXFoJA.png",Kalika TV
+http://server.applelive.in/kalikatv/kalikatv.m3u8
+
+#EXTINF:-1 tvg-id="KannurVision.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/FCXqPer.png",Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCLTV.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/bkp9dIm.png",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-id="MalabarNews.in" group-title="Malayalam" tvg-logo="https://i.imgur.com/Un2gxt4.png",Malabar News
+http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
